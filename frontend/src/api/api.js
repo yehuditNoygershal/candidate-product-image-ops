@@ -1,4 +1,4 @@
-const API_BASE = "https://0vq0us4gx9.execute-api.eu-central-1.amazonaws.com/prod";
+const API_BASE = "https://0vq0us4gx9.execute-api.eu-central-1.amazonaws.com";
 
 /**
  * Import CSV 

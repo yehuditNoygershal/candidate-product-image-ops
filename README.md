@@ -25,7 +25,7 @@ SQS used for async processing
 MongoDB Atlas used for data storage
 
 API URL:
-https://0vq0us4gx9.execute-api.eu-central-1.amazonaws.com/prod
+https://0vq0us4gx9.execute-api.eu-central-1.amazonaws.com
 
 How to Test the System:
 
